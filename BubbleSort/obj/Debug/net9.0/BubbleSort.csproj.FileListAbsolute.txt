@@ -1,0 +1,15 @@
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/bin/Debug/net9.0/BubbleSort
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/bin/Debug/net9.0/BubbleSort.deps.json
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/bin/Debug/net9.0/BubbleSort.runtimeconfig.json
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/bin/Debug/net9.0/BubbleSort.dll
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/bin/Debug/net9.0/BubbleSort.pdb
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/BubbleSort.AssemblyInfoInputs.cache
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/BubbleSort.AssemblyInfo.cs
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/BubbleSort.csproj.CoreCompileInputs.cache
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/BubbleSort.sourcelink.json
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/BubbleSort.dll
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/refint/BubbleSort.dll
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/BubbleSort.pdb
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/BubbleSort.genruntimeconfig.cache
+/home/sebas/Escritorio/Proyectos/BubbleSort/BubbleSort/obj/Debug/net9.0/ref/BubbleSort.dll
