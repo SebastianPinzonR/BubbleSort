@@ -328,5 +328,20 @@ namespace BubbleSort
                 }
             }
         }
+
+        //cuenta la cantidad de elementos en la lista
+        public double Cantidad()
+        {
+            trabajo = ancla;
+            double n = 0;
+
+            while (trabajo.Siguiente != null)
+            {
+                trabajo = trabajo.Siguiente;
+                n++;
+            }
+
+            return n;
+        }
     }
 }
